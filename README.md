@@ -1,3 +1,3 @@
 # Grid-web
 treinando hud
-![Logo do Markdown](img/index-html.png)
+![Logo do Markdown](index-html.png)
